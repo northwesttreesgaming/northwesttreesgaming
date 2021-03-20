@@ -1,7 +1,9 @@
-## About Me
+# About Me
 I am founder of the YouTube channel NorthWestTrees Gaming. 
 I play games and make videos for let's plays, and tutorials for game related software. 
 I am a founder of a community project called MCToolkit and am a popular creator on YouTube in side MCreator community.
+
+# Projects
 
 ## Minecraft Mods
 - [Better Vanilla](https://github.com/Better-Vanilla) - A small side project I maintain and made.
