@@ -9,6 +9,7 @@ I am a founder of a community project called MCToolkit and am a popular creator 
 - [Better Vanilla](https://github.com/Better-Vanilla) - A small side project I maintain and made.
 - [CCTV Craft](https://github.com/cctvcraft) - My main modification I am currently working on.
 - [PixelVar](https://github.com/pixelvar) - A MCreator Mod dependecy mod that mods can use for more advanced features.
+- [SpaceRift](https://github.com/Space-Rift) - A Minecraft exploration modification.
 
 ## Communities
 - [MCreator Examples](https://github.com/MCreator-Examples) A list of example workspace I have made for MCreator and have done tutorials on.
