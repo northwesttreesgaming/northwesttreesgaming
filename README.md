@@ -1,6 +1,6 @@
 # ABOUT ME
-I am founder of the YouTube channel NorthWestTrees Gaming. 
-I play games and make videos for let's plays, and tutorials for game related software. 
+I am the founder of the YouTube channel NorthWestTrees Gaming. 
+I play games and make videos for Let's plays, and tutorials for game-related software. 
 I am a founder of a community project called MCToolkit and am a popular creator on YouTube in side MCreator community.
 
 ## ORGANIZATIONS
@@ -11,8 +11,4 @@ All my game modifications I make.
 
 ### MCREATOR EXAMPLES
 [MCreator Examples](https://github.com/MCreator-Examples)  
-A list of example workspace I have made for MCreator and have done tutorials on.
-
-### MCTOOLKIT
-[MCToolkit-Team](https://github.com/Team-MCToolkit)  
-A community project that the MCreator community has come together to work on.
+A list of example workspaces I have made for MCreator and have done tutorials on.
